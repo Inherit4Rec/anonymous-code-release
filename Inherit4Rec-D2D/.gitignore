@@ -1,0 +1,9 @@
+data/
+.venv/
+checkpoints/
+logs/
+tf_events/
+*.part
+__pycache__/
+*.py[cod]
+.DS_Store
