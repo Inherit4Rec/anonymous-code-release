@@ -1,0 +1,4 @@
+# Versions used for the anonymous release (Python 3.9+).
+numpy==2.0.2
+pandas==2.2.3
+torch==2.5.1
